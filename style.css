@@ -1,0 +1,12 @@
+.hidden{
+	display: none;
+}
+#wrapper2{
+	width: 13%;
+	margin-top: 31px;
+	float: right;
+}
+#wrapper{
+	width: 30%;
+	float: left;
+}
